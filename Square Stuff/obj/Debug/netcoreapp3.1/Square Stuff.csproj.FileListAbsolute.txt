@@ -1,0 +1,13 @@
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.csprojAssemblyReference.cache
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.AssemblyInfoInputs.cache
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.AssemblyInfo.cs
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.csproj.CoreCompileInputs.cache
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.exe
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.deps.json
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.runtimeconfig.json
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.runtimeconfig.dev.json
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.dll
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\bin\Debug\netcoreapp3.1\Square Stuff.pdb
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.dll
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.pdb
+C:\Users\blcks\OneDrive\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\Square Stuff\obj\Debug\netcoreapp3.1\Square Stuff.genruntimeconfig.cache
