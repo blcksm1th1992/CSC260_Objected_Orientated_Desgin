@@ -1,0 +1,12 @@
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\obj\Debug\Banner.csprojAssemblyReference.cache
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\obj\Debug\Banner.csproj.CoreCompileInputs.cache
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\bin\Debug\Banner.pdb
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\obj\Debug\Banner.pdb
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\bin\Debug\Banner.exe
+C:\Users\derek\OneDrive\Desktop\BannerDiagram\Banner\obj\Debug\Banner.exe
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\bin\Debug\Banner.exe
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\bin\Debug\Banner.pdb
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\obj\Debug\Banner.csprojAssemblyReference.cache
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\obj\Debug\Banner.csproj.CoreCompileInputs.cache
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\obj\Debug\Banner.exe
+C:\Users\Miles Livermont\Desktop\BannerDiagram\Banner\obj\Debug\Banner.pdb
