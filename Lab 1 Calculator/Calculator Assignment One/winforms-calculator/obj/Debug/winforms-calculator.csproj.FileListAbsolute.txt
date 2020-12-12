@@ -1,0 +1,10 @@
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\bin\Debug\winforms-calculator.exe.config
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\bin\Debug\winforms-calculator.exe
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\bin\Debug\winforms-calculator.pdb
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms-calculator.csprojAssemblyReference.cache
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms_calculator.Kalkulator.resources
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms_calculator.Properties.Resources.resources
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms-calculator.csproj.GenerateResource.cache
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms-calculator.csproj.CoreCompileInputs.cache
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms-calculator.exe
+C:\Users\blcks\OneDrive\Desktop\winforms-calculator\winforms-calculator\obj\Debug\winforms-calculator.pdb

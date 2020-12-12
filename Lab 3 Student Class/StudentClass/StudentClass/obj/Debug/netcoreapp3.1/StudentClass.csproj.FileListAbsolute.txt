@@ -1,0 +1,13 @@
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.exe
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.deps.json
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.json
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.dev.json
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.pdb
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.csprojAssemblyReference.cache
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfoInputs.cache
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfo.cs
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.pdb
+C:\Users\Miles Livermont\Documents\College School Work\Fall 2020 School and Work\Object Oriented Design CSC 260\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.genruntimeconfig.cache

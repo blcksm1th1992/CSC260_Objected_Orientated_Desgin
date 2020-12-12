@@ -1,0 +1,152 @@
+<Project>
+  <Name>BannerDiagram</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Banner</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>DSU_Person</Name>
+        <Access>Public</Access>
+        <Location left="242" top="25" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public string ID</Member>
+        <Member type="Field">public string DSU_Email</Member>
+        <Member type="Field">public string Name</Member>
+        <Member type="Constructor">public DSU_Person()</Member>
+        <Member type="Destructor">~DSU_Person()</Member>
+        <Member type="Method">public abstract void changeEmail()</Member>
+        <Member type="Method">public abstract void changeAddress()</Member>
+        <Member type="Method">public abstract void viewSchedule()</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Student</Name>
+        <Access>Public</Access>
+        <Location left="29" top="332" />
+        <Size width="162" height="315" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private static int student_id</Member>
+        <Member type="Field">private int student_year</Member>
+        <Member type="Field">const string role = Student</Member>
+        <Member type="Constructor">public Student(int student_id, string name)</Member>
+        <Member type="Destructor">~Student()</Member>
+        <Member type="Constructor">public Student()</Member>
+        <Member type="Method">public void ViewSchedule()</Member>
+        <Member type="Method">public void RegisterClass()</Member>
+        <Member type="Method">public void ViewAvailableClasses()</Member>
+        <Member type="Method">public string DropCource()</Member>
+        <Member type="Method">public void WaitlistCourse()</Member>
+        <Member type="Method">public void CreateSemesterPlan()</Member>
+        <Member type="Method">public override void changeEmail()</Member>
+        <Member type="Method">public void changeEmail(string new_email)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Faculty</Name>
+        <Access>Public</Access>
+        <Location left="242" top="332" />
+        <Size width="162" height="264" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private int facultyid</Member>
+        <Member type="Field">const string role = Faculty</Member>
+        <Member type="Constructor">public Faculty()</Member>
+        <Member type="Destructor">~Faculty()</Member>
+        <Member type="Method">public void ViewSchedule()</Member>
+        <Member type="Method">public void BrowseAvailableCourses()</Member>
+        <Member type="Method">private void GradeCourse(string course, int grade, int student)</Member>
+        <Member type="Method">private void viewWaitlist(string course)</Member>
+        <Member type="Method">private void OverridePrereq(string course, int student_id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Advisor</Name>
+        <Access>Public</Access>
+        <Location left="475" top="332" />
+        <Size width="162" height="264" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private int AdvisorID</Member>
+        <Member type="Field">const string role = Advisor</Member>
+        <Member type="Method">private void listAdvisees()</Member>
+        <Member type="Method">private void removeHold(int studentID, int holdID)</Member>
+        <Member type="Method">private void viewStudentProfile(int studentID)</Member>
+        <Member type="Method">private void DegreeProgress(int studentID)</Member>
+        <Member type="Method">private void viewRegistration(int studentID)</Member>
+        <Member type="Constructor">public Advisor()</Member>
+        <Member type="Destructor">~Advisor()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Schedule</Name>
+        <Access>Public</Access>
+        <Location left="789" top="25" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int numberOfCourses</Member>
+        <Member type="Field">public string[][] CourseNumberToNameMap</Member>
+        <Member type="Method">public void ShowCourses()</Member>
+        <Member type="Method">public void AddCourse(string name, int capacity, int courseNumber)</Member>
+        <Member type="Method">public void DeleteCourse(int courseID)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>CourseSection</Name>
+        <Access>Public</Access>
+        <Location left="789" top="332" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private string Instructor</Member>
+        <Member type="Field">private int capacity</Member>
+        <Member type="Field">static int courseID</Member>
+        <Member type="Constructor">public CourseSection()</Member>
+        <Member type="Destructor">~CourseSection()</Member>
+        <Member type="Method">public void Show_Members()</Member>
+        <Member type="Method">public void ShowCourseInfo()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>StudentProfile</Name>
+        <Access>Public</Access>
+        <Location left="29" top="674" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private string StudentMajor</Member>
+        <Member type="Field">private int creditsEarned</Member>
+        <Member type="Constructor">public StudentProfile()</Member>
+        <Member type="Destructor">~StudentProfile()</Member>
+        <Member type="Method">private void DegreeWorks()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Generalization" first="1" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="2" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="3" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Association" first="0" second="4">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Generalization" first="5" second="4">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Nesting" first="6" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

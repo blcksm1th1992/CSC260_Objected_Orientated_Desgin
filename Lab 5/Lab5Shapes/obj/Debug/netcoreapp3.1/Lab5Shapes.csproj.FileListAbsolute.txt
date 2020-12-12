@@ -1,0 +1,4 @@
+C:\Users\Miles Livermont\Documents\Fall 2020 School and Work\Object Oriented Design CSC 260\Lab 5\Lab5Shapes\obj\Debug\netcoreapp3.1\Lab5Shapes.csprojAssemblyReference.cache
+C:\Users\Miles Livermont\Documents\Fall 2020 School and Work\Object Oriented Design CSC 260\Lab 5\Lab5Shapes\obj\Debug\netcoreapp3.1\Lab5Shapes.AssemblyInfoInputs.cache
+C:\Users\Miles Livermont\Documents\Fall 2020 School and Work\Object Oriented Design CSC 260\Lab 5\Lab5Shapes\obj\Debug\netcoreapp3.1\Lab5Shapes.AssemblyInfo.cs
+C:\Users\Miles Livermont\Documents\Fall 2020 School and Work\Object Oriented Design CSC 260\Lab 5\Lab5Shapes\obj\Debug\netcoreapp3.1\Lab5Shapes.csproj.CoreCompileInputs.cache
